@@ -9,10 +9,15 @@ Currently, two official plugins are available:
 
 ## lanch step
 去到 my-lib 目录
+
 npm install
+
 npx vite build
+
 去到 src 目录
+
 npm install
+
 npm run dev
 
 ## Expanding the ESLint configuration
